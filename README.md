@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LIVE-TOOL-0d6efd?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 
-  <img src="https://img.shields.io/github/stars/tausifzaman/web-postmortem?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/tausifzaman/web-postmortem?style=for-the-badge&cacheSeconds=600">
 
   <a href="https://github.com/tausifzaman/web-postmortem/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/tausifzaman/web-postmortem?style=for-the-badge">
