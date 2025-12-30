@@ -4,12 +4,15 @@
  
  <p>
  <a href="https://tausifzaman.online/tool/web-postmortem">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-0d6efd?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>&nbsp;
-    <img src="https://img.shields.io/github/stars/tausifzaman/web-postmortem?style=for-the-badge">&nbsp;
-  <a href="https://github.com/tausifzaman/web-postmortem/issues">
-    <img src="https://img.shields.io/github/license/tausifzaman/web-postmortem?color=%23E8E8E8&style=for-the-badge"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LIVE-TOOL-0d6efd?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+
+  <img src="https://img.shields.io/github/stars/tausifzaman/web-postmortem?style=for-the-badge">
+
+  <a href="https://github.com/tausifzaman/web-postmortem/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/tausifzaman/web-postmortem?style=for-the-badge">
+  </a>
+
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge">
  
 </p>
