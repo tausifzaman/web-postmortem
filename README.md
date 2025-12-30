@@ -21,7 +21,7 @@ Web-Postmortem is a powerful website reconnaissance tool that analyzes publicly 
 ## Screenshot Preview
  Tool Link <a href="https://tausifzaman.online/tool/web-postmortem">tausifzaman.online/tool/web-postmortem</a>
  
-![web-postmortem](https://raw.githubusercontent.com/tausifzaman/web-postmortem/refs/heads/main/screenshot.jpg)
+![web-postmortem](https://raw.githubusercontent.com/tausifzaman/web-postmortem/refs/heads/main/images/screenshot.jpg)
 
 
 
